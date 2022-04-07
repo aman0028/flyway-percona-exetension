@@ -5,7 +5,6 @@
     <parent>
         <groupId>com</groupId>
         <version>${revision}${changelist}</version>
-        <relativePath>../freshworks-boot-parent</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <name>Flyway Percona Database Migration</name>
