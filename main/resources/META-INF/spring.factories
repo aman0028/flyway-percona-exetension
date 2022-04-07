@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.db.migration.core.resolver.PerconaMigrationResolver, \
+  com.db.migration.config.BootFlywayConfiguration
